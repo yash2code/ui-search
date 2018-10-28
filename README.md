@@ -10,3 +10,7 @@ I have
 
 - tried to make the color scheme as simple as possible.
 
+The project is deployed on [Heroku](https://heroku.com).
+
+Here is the [Demo](https://search-.herokuapp.com/)
+
